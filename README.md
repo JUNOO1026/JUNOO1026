@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JUNWOO</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am an AI developer passionate about deep learning and data analytics.</h3>
 
 - 🔭 I’m currently working on **naturalgas Project**
 
