@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm JUNWOO</h1>
 <h3 align="center">I am an AI developer passionate about deep learning and data analytics.</h3>
 
-- 🔭 I’m currently working on **naturalgas Project**
 
 - 🌱 I’m currently learning **Object Detection, Segmentation, transformers**
 
